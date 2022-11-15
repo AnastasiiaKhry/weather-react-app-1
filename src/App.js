@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://github.com/AnastasiiaKhry/weather-react-app.git"
+            href="mailto:ttt83103@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/AnastasiiaKhry/weather-react-app.git"
+            href="https://github.com/AnastasiiaKhry/weather-react-app-1.git"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://github.com/AnastasiiaKhry/weather-react-app.git"
+            href="https://luminous-tulumba-e78bb9.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           >
